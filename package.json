@@ -1,0 +1,23 @@
+{
+  "name": "match-useragent",
+  "version": "0.0.1",
+  "author": "Yuhei Yasuda <yuhei.yasuda1003@gmail.com> (https://yuheiy.com/)",
+  "ava": {
+    "require": [
+      "babel-register"
+    ]
+  },
+  "dependencies": {
+    "browserslist": "^2.1.4",
+    "lodash.range": "^3.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-preset-latest": "^6.24.1"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  }
+}

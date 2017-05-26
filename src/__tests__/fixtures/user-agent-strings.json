@@ -1,0 +1,74 @@
+{
+  "ie": {
+    "userAgent": "",
+    "version": ""
+  },
+  "edge": {
+    "userAgent": "",
+    "version": ""
+  },
+  "firefox": {
+    "userAgent": "",
+    "version": ""
+  },
+  "chrome": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+    "version": "58"
+  },
+  "safari": {
+    "userAgent": "",
+    "version": ""
+  },
+  "opera": {
+    "userAgent": "",
+    "version": ""
+  },
+  "ios_saf": {
+    "userAgent": "",
+    "version": ""
+  },
+  "op_mini": {
+    "userAgent": "",
+    "version": ""
+  },
+  "android": {
+    "userAgent": "",
+    "version": ""
+  },
+  "bb": {
+    "userAgent": "",
+    "version": ""
+  },
+  "op_mob": {
+    "userAgent": "",
+    "version": ""
+  },
+  "and_chr": {
+    "userAgent": "",
+    "version": ""
+  },
+  "and_ff": {
+    "userAgent": "",
+    "version": ""
+  },
+  "ie_mob": {
+    "userAgent": "",
+    "version": ""
+  },
+  "and_uc": {
+    "userAgent": "",
+    "version": ""
+  },
+  "samsung": {
+    "userAgent": "",
+    "version": ""
+  },
+  "and_qq": {
+    "userAgent": "",
+    "version": ""
+  },
+  "baidu": {
+    "userAgent": "",
+    "version": ""
+  }
+}
